@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <math.h>
 
-
 int main() {
     float radius, area;
     const float PI = 3.1416;
